@@ -8,7 +8,7 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
-  trailingSlash: "never",
+  // trailingSlash: "never",
   siteMetadata: {
     title: `Gatsby Starter Blog`,
     author: {
